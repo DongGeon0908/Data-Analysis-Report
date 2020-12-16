@@ -20,6 +20,11 @@
   - matplotlib.pyplot as plt
 <hr />
 
+#### 개발환경
+  - colab
+  - pycharm
+<hr />
+
 #### 데이터셋
   - 경기도 공공데이터드림을 통해 받은 2018 ~ 2019년도 공공데이터
     + 게임시설
